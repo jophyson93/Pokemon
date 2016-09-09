@@ -20,9 +20,12 @@ function testFunction2() {
 
 function testFunctionTwo() {
     console.log('test')
+    askdjaskas
+    askdjasd
+    askdjaskjdkasdjasd
+    
 }
 
 function testFunction3() {
     console.log("test")
 }
-
