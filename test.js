@@ -20,3 +20,7 @@ function testFunction2() {
 function testFunctionTwo() {
     console.log('test')
 }
+
+function testFunction3() {
+    console.log("test")
+}
