@@ -16,3 +16,12 @@ function testFunction2() {
   //dostuff;
   qwjqweklqw
 }
+
+function testFunction3() {
+  console.log('this is my function, Jophy');
+  asdlkdasda
+  alskdaldk
+  laskdlak
+  //dostuff;
+  qwjqweklqw
+}
