@@ -4,3 +4,7 @@ function testFunction() {
   //dostuff;
   qwjqweklqw
 }
+
+function testFunctionTwo() {
+    console.log('test')
+}
